@@ -1,0 +1,15 @@
+@media (max-width: 37.5rem) {
+  .rating-state,
+  .thank-you-state {
+    width: 34rem;
+  }
+
+  .circle {
+    width: 4.4rem;
+    height: 4.4rem;
+  }
+
+  .thank-you-note {
+    font-size: 1.4rem;
+  }
+}
